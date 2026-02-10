@@ -9,7 +9,7 @@ The goal is to make data exploration simple, interactive, and insightful — whe
 ## 1. E-commerce Sales Dashboard
 A dynamic dashboard designed to monitor online sales performance, customer behavior, and top-selling products.
 It includes interactive charts, slicers, and KPIs to make understanding sales trends effortless.
-[Ecommerce Sales Dashboard](https://github.com/Shivam-DataAnalytics/PowerBI-Dashboards/tree/main/ECOMMERCE%20SALES%20DASHBOARD)
+[Ecommerce Sales Dashboard](https://github.com/ShivamMahto2105/PowerBI-Dashboards/tree/main/1%20Ecommerce%20Sales%20Dashboard)
 
 ## 2. Mobile Sales Dashboard
 A dynamic dashboard designed to monitor online sales performance, customer Rating, and top-selling products.
