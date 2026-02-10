@@ -9,14 +9,14 @@ This project demonstrates skills in **data analysis, data visualization, and das
 ---
 
 # 📷 Dashboard Preview
-![View Dashboard]()
+![View Dashboard](https://github.com/ShivamMahto2105/PowerBI-Dashboards/blob/main/2%20Mobile%20Sales%20Dashboard/Preview.png)
 
- 🛒PowerBI Dashboard For Ecommerce Sales Dashboard
-[View Dashboard]()
+ 🛒PowerBI Dashboard For Mobile Sales Dashboard
+[View Dashboard](https://github.com/ShivamMahto2105/PowerBI-Dashboards/blob/main/2%20Mobile%20Sales%20Dashboard/Project.pbix)
 
 # 📂 Dataset Source
 
-[Detais](https://github.com/Shivam-DataAnalytics/PowerBI-Dashboards/blob/main/ECOMMERCE%20SALES%20DASHBOARD/Details.csv)
+[Detais](https://github.com/ShivamMahto2105/PowerBI-Dashboards/blob/main/2%20Mobile%20Sales%20Dashboard/Mobile%20Sales%20Data.xlsx)
 
 ## 🎯 Objectives
 - Analyze total sales, quantity, and transactions.
