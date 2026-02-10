@@ -14,7 +14,7 @@ It includes interactive charts, slicers, and KPIs to make understanding sales tr
 ## 2. Mobile Sales Dashboard
 A dynamic dashboard designed to monitor online sales performance, customer Rating, and top-selling products.
 It includes interactive charts, slicers, and KPIs to make understanding sales trends effortless.
-[Ecommerce Sales Dashboard](https://github.com/ShivamMahto2105/PowerBI-Dashboards/tree/main/2%20Mobile%20Sales%20Dashboard)
+[Mobile Sales Dashboard](https://github.com/ShivamMahto2105/PowerBI-Dashboards/tree/main/2%20Mobile%20Sales%20Dashboard)
 
 ## 🛠 Tools and Techniques Used
 
@@ -25,28 +25,21 @@ It includes interactive charts, slicers, and KPIs to make understanding sales tr
 
 ## 🚀 How to Get Started
 
-Download and open the .pbix file using Power BI Desktop.
-
-If prompted, update or edit the data source connections.
-
-Explore the dashboard using built-in filters, slicers, and visual elements.
-
-Customize or extend the dashboard for your own data if needed.
+1. Download and open the .pbix file using Power BI Desktop.
+2. If prompted, update or edit the data source connections.
+3. Explore the dashboard using built-in filters, slicers, and visual elements.
+4. Customize or extend the dashboard for your own data if needed.
 
 ## 📌 Notes
 
 - The dataset used is either sample data or anonymized for demonstration purposes.
-
 - To adapt the dashboard to your own dataset, simply update the data source inside Power BI.
 
 ## 🌟 Highlights of the Dashboard
 
 - Responsive, mobile-friendly design
-
 - Clean layout and intuitive navigation
-
 - Key performance indicators (KPIs) readily visible
-
 - Drill-down capabilities for deeper insights
 
 ## 🎯 Final Thoughts

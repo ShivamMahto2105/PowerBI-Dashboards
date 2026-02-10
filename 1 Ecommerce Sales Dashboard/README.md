@@ -42,12 +42,10 @@ The dashboard design includes a customized background image for a more polished,
 - DAX (Data Analysis Expressions) for creating custom measures and calculations
 
 ## 🚀 How to Use This Dashboard
-- Open the Ecommerce_Sales_Dashboard.pbix file in Power BI Desktop.
 
-- Check and update the data source if necessary.
-
-- Use the slicers and filters to navigate through various dimensions such as    regions, product categories, sales time periods, and customer types.
-
-- Customize visuals if you want to align the dashboard more closely with your own business data.
+1. Open the Ecommerce_Sales_Dashboard.pbix file in Power BI Desktop.
+2. Check and update the data source if necessary.
+3. Use the slicers and filters to navigate through various dimensions such as    regions, product categories, sales time periods, and customer types.
+4. Customize visuals if you want to align the dashboard more closely with your own business data.
 
 Thank You!!
