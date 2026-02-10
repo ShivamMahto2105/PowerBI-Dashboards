@@ -8,13 +8,13 @@ This project demonstrates skills in **data analysis, data visualization, and das
 
 ---
 
-# 📷 Dashboard Preview
+## 📷 Dashboard Preview
 ![View Dashboard](https://github.com/ShivamMahto2105/PowerBI-Dashboards/blob/main/2%20Mobile%20Sales%20Dashboard/Preview.png)
 
- 🛒PowerBI Dashboard For Mobile Sales Dashboard
+## 🛒PowerBI Dashboard For Mobile Sales Dashboard
 [View Dashboard](https://github.com/ShivamMahto2105/PowerBI-Dashboards/blob/main/2%20Mobile%20Sales%20Dashboard/Project.pbix)
 
-# 📂 Dataset Source
+## 📂 Dataset Source
 
 [Detais](https://github.com/ShivamMahto2105/PowerBI-Dashboards/blob/main/2%20Mobile%20Sales%20Dashboard/Mobile%20Sales%20Data.xlsx)
 

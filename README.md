@@ -1,27 +1,29 @@
-📄 Overview
+# 📄 Overview
 
 Welcome! 👋
 This repository contains a collection of Power BI projects aimed at transforming raw data into meaningful, easy-to-understand visuals.
 The goal is to make data exploration simple, interactive, and insightful — whether for business tracking, customer analysis, or strategic decision-making.
 
-📊 Currently Included
+## 📊 Currently Included
 
-1. E-commerce Sales Dashboard
+## 1. E-commerce Sales Dashboard
 A dynamic dashboard designed to monitor online sales performance, customer behavior, and top-selling products.
 It includes interactive charts, slicers, and KPIs to make understanding sales trends effortless.
 [Ecommerce Sales Dashboard](https://github.com/Shivam-DataAnalytics/PowerBI-Dashboards/tree/main/ECOMMERCE%20SALES%20DASHBOARD)
 
-🛠 Tools and Techniques Used
+## 2. Mobile Sales Dashboard
+A dynamic dashboard designed to monitor online sales performance, customer Rating, and top-selling products.
+It includes interactive charts, slicers, and KPIs to make understanding sales trends effortless.
+[Ecommerce Sales Dashboard](https://github.com/ShivamMahto2105/PowerBI-Dashboards/tree/main/2%20Mobile%20Sales%20Dashboard)
 
-Power BI Desktop — for building interactive visualizations.
+## 🛠 Tools and Techniques Used
 
-Power Query — for data cleaning and shaping.
+- Power BI Desktop — for building interactive visualizations.
+- Power Query — for data cleaning and shaping.
+- DAX (Data Analysis Expressions) — for creating calculated columns, measures, and advanced KPIs.
+- Drillthrough Pages & Tooltips — to make exploration more detailed and user-friendly.
 
-DAX (Data Analysis Expressions) — for creating calculated columns, measures, and advanced KPIs.
-
-Drillthrough Pages & Tooltips — to make exploration more detailed and user-friendly.
-
-🚀 How to Get Started
+## 🚀 How to Get Started
 
 Download and open the .pbix file using Power BI Desktop.
 
@@ -31,23 +33,23 @@ Explore the dashboard using built-in filters, slicers, and visual elements.
 
 Customize or extend the dashboard for your own data if needed.
 
-📌 Notes
+## 📌 Notes
 
-The dataset used is either sample data or anonymized for demonstration purposes.
+- The dataset used is either sample data or anonymized for demonstration purposes.
 
-To adapt the dashboard to your own dataset, simply update the data source inside Power BI.
+- To adapt the dashboard to your own dataset, simply update the data source inside Power BI.
 
-🌟 Highlights of the Dashboard
+## 🌟 Highlights of the Dashboard
 
-Responsive, mobile-friendly design
+- Responsive, mobile-friendly design
 
-Clean layout and intuitive navigation
+- Clean layout and intuitive navigation
 
-Key performance indicators (KPIs) readily visible
+- Key performance indicators (KPIs) readily visible
 
-Drill-down capabilities for deeper insights
+- Drill-down capabilities for deeper insights
 
-🎯 Final Thoughts
+## 🎯 Final Thoughts
 
 Thanks for visiting this Power BI project!
 Feel free to explore, customize, or enhance the dashboard further to suit your own business needs.
