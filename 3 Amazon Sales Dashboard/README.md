@@ -42,13 +42,13 @@ This project presents an interactive **Amazon Sales Dashboard** built using Powe
 ## 🔗 Important Links
 
 ### 📊 Live Dashboard Preview
-[Click Here](https://your-preview-link-here)
+[Click Here](https://drive.google.com/file/d/1E-_tI18L7eHe0ZToM35GpkQmPAB8lEBQ/view?usp=sharing)
 
 ### 📁 Dataset
-[Download Dataset](https://your-dataset-link-here)
+[Download Dataset](https://docs.google.com/spreadsheets/d/1D60MBY1VTSCQwo6RCpZU95mLj9LmzUDI/edit?usp=sharing&ouid=102207403380858406011&rtpof=true&sd=true)
 
 ### 📦 PBIX File
-[Download PBIX](https://your-pbix-download-link-here)
+[Download PBIX](https://drive.google.com/file/d/1E-_tI18L7eHe0ZToM35GpkQmPAB8lEBQ/view?usp=sharing)
 
 ---
 
