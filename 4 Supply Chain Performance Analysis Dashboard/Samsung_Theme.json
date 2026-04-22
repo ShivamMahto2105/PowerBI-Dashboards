@@ -1,0 +1,93 @@
+{
+  "name": "Samsung Clean Dashboard Theme",
+  "dataColors": [
+    "#1F2A44",
+    "#2F3E5C",
+    "#4A5D73",
+    "#6C7F92",
+    "#9AA9B8",
+    "#C7D0D9"
+  ],
+  "background": "#F5F7FA",
+  "foreground": "#1F2A44",
+  "tableAccent": "#1F2A44",
+
+  "visualStyles": {
+    "*": {
+      "*": {
+        "fontFamily": [
+          { "value": "Segoe UI" }
+        ],
+        "color": [
+          {
+            "solid": { "color": "#1F2A44" }
+          }
+        ]
+      }
+    },
+
+    "card": {
+      "*": {
+        "labels": [
+          {
+            "color": { "solid": { "color": "#1F2A44" } },
+            "fontSize": 16
+          }
+        ],
+        "categoryLabels": [
+          {
+            "color": { "solid": { "color": "#6C7F92" } }
+          }
+        ],
+        "background": [
+          {
+            "color": { "solid": { "color": "#FFFFFF" } },
+            "transparency": 0
+          }
+        ]
+      }
+    },
+
+    "clusteredBarChart": {
+      "*": {
+        "dataLabels": [
+          {
+            "color": { "solid": { "color": "#1F2A44" } }
+          }
+        ],
+        "categoryAxis": [
+          {
+            "labelColor": { "solid": { "color": "#6C7F92" } }
+          }
+        ],
+        "valueAxis": [
+          {
+            "labelColor": { "solid": { "color": "#6C7F92" } }
+          }
+        ],
+        "background": [
+          {
+            "color": { "solid": { "color": "#FFFFFF" } },
+            "transparency": 0
+          }
+        ]
+      }
+    }
+  },
+
+  "textClasses": {
+    "title": {
+      "fontSize": 16,
+      "color": "#1F2A44",
+      "fontFace": "Segoe UI Semibold"
+    },
+    "header": {
+      "fontSize": 13,
+      "color": "#6C7F92"
+    },
+    "callout": {
+      "fontSize": 22,
+      "color": "#1F2A44"
+    }
+  }
+}
