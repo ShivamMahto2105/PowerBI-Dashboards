@@ -13,7 +13,7 @@
 
 | Overview Page | Inventory Page |
 |:---:|:---:|
-| ![Overview](https://github.com/ShivamMahto2105/PowerBI-Dashboards/blob/main/4%20Supply%20Chain%20Performance%20Analysis%20Dashboard/Preview/Overview.png) | ![Inventory](hhttps://github.com/ShivamMahto2105/PowerBI-Dashboards/blob/main/4%20Supply%20Chain%20Performance%20Analysis%20Dashboard/Preview/Inventory%20%26%20Production.png) |
+| ![Overview](https://github.com/ShivamMahto2105/PowerBI-Dashboards/blob/main/4%20Supply%20Chain%20Performance%20Analysis%20Dashboard/Preview/Overview.png) | ![Inventory](https://github.com/ShivamMahto2105/PowerBI-Dashboards/blob/main/4%20Supply%20Chain%20Performance%20Analysis%20Dashboard/Preview/Inventory%20%26%20Production.png) |
 
 | Procurement Page | Shipment Page |
 |:---:|:---:|
