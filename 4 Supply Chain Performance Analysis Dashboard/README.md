@@ -13,11 +13,11 @@
 
 | Overview Page | Inventory Page |
 |:---:|:---:|
-| ![Overview](https://your-repo/assets/preview_overview.png) | ![Inventory](https://your-repo/assets/preview_inventory.png) |
+| ![Overview](https://github.com/ShivamMahto2105/PowerBI-Dashboards/blob/main/4%20Supply%20Chain%20Performance%20Analysis%20Dashboard/Preview/Overview.png) | ![Inventory](hhttps://github.com/ShivamMahto2105/PowerBI-Dashboards/blob/main/4%20Supply%20Chain%20Performance%20Analysis%20Dashboard/Preview/Inventory%20%26%20Production.png) |
 
 | Procurement Page | Shipment Page |
 |:---:|:---:|
-| ![Customer](https://your-repo/assets/preview_procurement.png) | ![Shipment](https://your-repo/assets/preview_shipment.png) |
+| ![Customer](https://github.com/ShivamMahto2105/PowerBI-Dashboards/blob/main/4%20Supply%20Chain%20Performance%20Analysis%20Dashboard/Preview/Customer.png) | ![Shipment](https://github.com/ShivamMahto2105/PowerBI-Dashboards/blob/main/4%20Supply%20Chain%20Performance%20Analysis%20Dashboard/Preview/Shipment.png) |
 
 ---
 
@@ -69,9 +69,9 @@ This Power BI dashboard delivers an **end-to-end supply chain performance view**
 
 | Resource | Link |
 |---|---|
-| 📊 **Power BI Report (.pbix)** | [Download / View Report](#) 
-| 🗄️ **Dataset (Excel / CSV)** | [Download Dataset](#) 
-| 📄 **DAX Formulas Reference** | [View DAX.md](#) 
+| 📊 **Power BI Report (.pbix)** | [Download / View Report](https://drive.google.com/file/d/1Yi9yKaHnrNG8MUntTnIIgRqSVvla9RWD/view?usp=sharing) 
+| 🗄️ **Dataset (Excel / CSV)** | [Download Dataset](https://github.com/ShivamMahto2105/PowerBI-Dashboards/tree/main/4%20Supply%20Chain%20Performance%20Analysis%20Dashboard/dataset) 
+| 📄 **DAX Formulas Reference** | [View DAX.md](https://github.com/ShivamMahto2105/PowerBI-Dashboards/blob/main/4%20Supply%20Chain%20Performance%20Analysis%20Dashboard/DAX.md) 
 
 ---
 
